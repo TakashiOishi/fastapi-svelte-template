@@ -1,9 +1,6 @@
-[submodule "frontend"]
-	path = frontend
-	url = git@github.com:Pk13055/svelte-template.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:Pk13055/fastapi-template.git
-[submodule "fastapi-template"]
-	path = fastapi-template
 	url = https://github.com/TakashiOishi/fastapi-template.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TakashiOishi/svelte-template.git

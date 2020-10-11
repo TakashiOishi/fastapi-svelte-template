@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:Pk13055/fastapi-template.git
+[submodule "fastapi-template"]
+	path = fastapi-template
+	url = https://github.com/TakashiOishi/fastapi-template.git
